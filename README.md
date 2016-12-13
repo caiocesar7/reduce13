@@ -1,0 +1,1 @@
+Função para reduzir caractres
